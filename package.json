@@ -1,0 +1,13 @@
+{
+  "name": "wayt.js",
+  "version": "1.0.0",
+  "description": "Use wayt.js to make code wait for n milliseconds without setTimeout.",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "wait", "async"
+  ],
+  "author": "iHP",
+  "license": "ISC",
+  "dependencies": {}
+}
