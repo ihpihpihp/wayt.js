@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/ihpihpihp/wayt.js/issues"
   },
-  "homepage": "https://github.com/ihpihpihp/wayt.js#readme"
+  "homepage": "https://github.com/ihpihpihp/wayt.js#readme",
+  "readme": "README.md"
 }
