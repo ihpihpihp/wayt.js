@@ -1,6 +1,7 @@
 {
   "name": "wayt.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "private": true,
   "description": "Use wayt.js to make code wait for n milliseconds without setTimeout.",
   "repository": {
     "type": "git",
